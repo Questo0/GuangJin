@@ -9,6 +9,12 @@
 }
 
 section.parts{
-  background-color: black;
-  box-sizing: border-box;
+  background-size: cover;
+  display: table;
+  position: relative;
+  table-layout: fixed;
+  width: 100%;
+  
+  /*background-color: black;
+  box-sizing: border-box;*/
 }
