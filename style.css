@@ -33,6 +33,7 @@ div{
 
 div.parts{
   width: 100%;
+  position: relative;
   background-color: white;
   box-sizing: border-box;
   max-width: 500px;
