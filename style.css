@@ -3,5 +3,9 @@
 }
 
 [role="main"] {
+  background-color: red;
+}
+
+section.parts{
   background-color: black;
 }
