@@ -1,11 +1,14 @@
 .header{
   background-color: white;
+  box-sizing: border-box;
 }
 
 [role="main"] {
   background-color: red;
+  box-sizing: border-box;
 }
 
 section.parts{
   background-color: black;
+  box-sizing: border-box;
 }
