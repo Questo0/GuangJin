@@ -27,7 +27,17 @@ section.section-parts{
   width: 100%;
 }
 
+div{
+  display: block;
+}
+
 div.parts{
-  box-sizing: border-box;
+  width: 100%;
   background-color: white;
+  box-sizing: border-box;
+  max-width: 500px;
+}
+
+p{
+ font-size: 16px; 
 }
