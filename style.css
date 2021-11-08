@@ -19,13 +19,15 @@
   width = 100%;
 }
 
-section.parts{
+section.section-parts{
   background-size: cover;
   display: table;
   position: relative;
   table-layout: fixed;
   width: 100%;
-  
-  /*background-color: black;
-  box-sizing: border-box;*/
+}
+
+div.parts{
+  box-sizing: border-box;
+  background-color: white;
 }
