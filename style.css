@@ -11,6 +11,12 @@
 [role="image"]{
   width: 150px;
   height: 150px;
+  border: 0px;
+}
+
+.image-border{
+  display: block;
+  width = 100%;
 }
 
 section.parts{
