@@ -8,6 +8,11 @@
   box-sizing: border-box;
 }
 
+[role="image"]{
+  width: 150px;
+  height: 150px;
+}
+
 section.parts{
   background-size: cover;
   display: table;
