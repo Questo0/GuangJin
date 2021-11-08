@@ -2,7 +2,6 @@
   background-color: white;
 }
 
-div.main{
+[role="main"] {
   background-color: black;
 }
-
